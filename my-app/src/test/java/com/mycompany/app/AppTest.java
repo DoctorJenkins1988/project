@@ -10,7 +10,7 @@ import org.junit.Test;
 public class AppTest
 {
     /**
-     * Rigorous Test :-)
+     * Rigorous Test :-))
      */
     @Test
     public void shouldAnswerWithTrue()
@@ -19,9 +19,9 @@ public class AppTest
     }
 
 
-	 // @Test
-	 // public void shouldAnswerWithFalse()
-	 // {
-		// 	 assertTrue( false );
-	 // }
+		 // @Test
+		 // public void shouldAnswerWithFalse()
+		 // {
+			// 	 assertTrue( false );
+		 // }
 }
